@@ -136,13 +136,12 @@ per_head_config = {
 
 ## Citation
 ```bibtex
-@misc{li2025kvtunersensitivityawarelayerwisemixed,
-      title={KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference}, 
-      author={Xing Li and Zeyu Xing and Yiming Li and Linping Qu and Hui-Ling Zhen and Wulong Liu and Yiwu Yao and Sinno Jialin Pan and Mingxuan Yuan},
-      year={2025},
-      eprint={2502.04420},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2502.04420}, 
+@inproceedings{
+li2025kvtuner,
+title={{KVT}uner: Sensitivity-Aware Layer-Wise Mixed-Precision {KV} Cache Quantization for Efficient and Nearly Lossless {LLM} Inference},
+author={Xing Li and Zeyu XING and Yiming Li and Linping Qu and Hui-Ling Zhen and Yiwu Yao and Wulong Liu and Sinno Jialin Pan and Mingxuan Yuan},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=zDwipF6h06}
 }
 ```
